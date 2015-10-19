@@ -1,0 +1,10 @@
+{
+  "name": "mentoring",
+  "version": "1.0.0",
+  "description": "Oli's CE mentoring challenges",
+  "author": "Oliver Woodings",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^0.8.5"
+  }
+}
